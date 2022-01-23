@@ -1,7 +1,7 @@
 # SproutDesktop
 This is the desktop version of Sprout
 
-# Linux Download
+## Linux Download
 Unzip the Download file and run the SproutDesktop Application on terminal, run:
 ```bash
 ./SproutDesktop
